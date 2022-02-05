@@ -27,7 +27,7 @@ interface PostProps {
 }
 
 // export default function Post() {
-//   // TODO
+
 // }
 
 // export const getStaticPaths = async () => {
